@@ -1,2 +1,2 @@
 # GitSearch
-Using github API to search for a user and their profile information and their repositories.
+Using github API to search for a user, their profile information and their repositories.
