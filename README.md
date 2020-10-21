@@ -19,11 +19,6 @@ Using github API to search for a user, their profile information and their repos
 ```bash
 git clone https://github.com/Nishkarsh01/GitSearch.git
 ```
-#### Clone this repository:
-
-```bash
-git clone https://github.com/Nishkarsh01/GitSearch.git
-```
 or download the zip file from github.
 
 After extracting the files, 
