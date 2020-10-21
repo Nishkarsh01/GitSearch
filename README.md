@@ -6,4 +6,5 @@ Using github API to search for a user, their profile information and their repos
 
 ## Screenshots
 ![App Screenshot](images/1.png)
+![App Screenshot](images/2.png)
 
